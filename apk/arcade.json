@@ -1,0 +1,42 @@
+﻿{
+	"name": "Queec",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 320,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"used-plugins": [
+		"Browser",
+		"Button",
+		"Dropbox",
+		"Function",
+		"HTML_iFrame",
+		"Keyboard",
+		"List",
+		"Mouse",
+		"Multiplayer",
+		"NinePatch",
+		"PushJs",
+		"Rex_Date",
+		"ScirraArcade",
+		"ScirraArcadeV4",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Touch",
+		"rojoPaster",
+		"sliderbar",
+		"video"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"Bullet",
+		"Fade"
+	]
+}

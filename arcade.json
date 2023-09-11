@@ -1,5 +1,5 @@
 ﻿{
-	"name": "Multiplayer chat example",
+	"name": "Bargmy Queec",
 	"version": "1.0.0.0",
 	"description": "",
 	"id": "",
@@ -11,18 +11,34 @@
 	"orientations": "any",
 	"c2version": "244",
 	"used-plugins": [
+		"Arr",
 		"Browser",
 		"Button",
+		"Dropbox",
 		"Function",
+		"HTML_iFrame",
 		"Keyboard",
 		"List",
 		"Mouse",
 		"Multiplayer",
 		"NinePatch",
+		"PushJs",
+		"Rex_Date",
+		"ScirraArcade",
+		"ScirraArcadeV4",
 		"Sprite",
 		"Text",
-		"TextBox"
+		"TextBox",
+		"TiledBg",
+		"Touch",
+		"rex_youtube_player",
+		"rojoPaster",
+		"sliderbar",
+		"video"
 	],
 	"used-behaviors": [
+		"Anchor",
+		"Bullet",
+		"Fade"
 	]
 }
